@@ -24,11 +24,14 @@ List of Data Analytic portfolio
 ## [Project 5: State of Park City Hotel: Booking Data Visualization in Tableau](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/HotelDataVisualizationProject/HotelBookingDashboard)
 - Analyzing Booking Data of State of Park City Hotel
 - Making interactive dashboard of company data analytic
+
 ![](https://github.com/farhanphame/Farhan_Portfolio/blob/main/Images/Dashboard%20of%20States%20Park%20City%20Peaks%20Hotel.JPG)
 
 ## [Project 6: Adventure Works Retail Store: Reviews Data Visualization in Tableau](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/AdventureWorksRetailStore-DataVisualizationProject/SalesbyCityandSalesStats)
 - Analyzing the buyer reviews of Adventure Works Retail Store
 - Making interactive dashboard of company data analytic
+
+![]()
 
 ## [Project 7: MegaMart: Sales Data Visualization](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/MegaMart-VisualizationProject/MegamartSalesDashboard)
 - Analyzing the sales data of MegaMart company
