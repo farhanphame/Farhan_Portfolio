@@ -5,17 +5,24 @@ List of Data Analytic portfolio
 - Understanding dataset
 - Data cleaning and preparation
 
+![](https://github.com/farhanphame/Farhan_Portfolio/blob/main/Images/Absenteeism.JPG)
+
 ## [Project 2: Bike Sharing Demand: EDA in Python](https://github.com/farhanphame/Bike_Sharing_Demand)
 - Understanding dataset
 - Data cleaning and preparation
 - Doing Exploratory Data Analysis
 - Visualizing the analysis insight
 
+![](https://github.com/farhanphame/Farhan_Portfolio/blob/main/Images/Bike%20Sharing.JPG)
+![](https://github.com/farhanphame/Farhan_Portfolio/blob/main/Images/Bike%20Sharing%202.JPG)
+
 ## [Project 3: E-Commerce Dataset: EDA in Python](https://github.com/farhanphame/E-Commerce_Dataset)
 - Understanding dataset
 - Data cleaning and preparation
 - Doing Exploratory Data Analysis
 - Visualizing the analysis insight
+- 
+![](https://github.com/farhanphame/Farhan_Portfolio/blob/main/Images/Online%20Retail.JPG)
 
 ## [Project 4: GreatFit Clothing: Data Visualization in Tableau](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/GreatFitClothing-DataVisualizationProject/DashboardofGreeatFitClothing)
 - Analyzing GreatFit Clothing data for understanding buyer
