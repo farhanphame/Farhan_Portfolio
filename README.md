@@ -1,18 +1,38 @@
 Muhammad Farhan Abdillah Portfolio
 List of Data Analytic portfolio 
 
-# [Project 1: Absenteeism Dataset: Preprocessing Data with Python](https://github.com/farhanphame/Absenteeism_Dataset)
+## [Project 1: Absenteeism Dataset: Preprocessing Data with Python](https://github.com/farhanphame/Absenteeism_Dataset)
 - Understanding dataset
 - Data cleaning and preparation
 
-# [Project 2: Bike Sharing Demand: EDA](https://github.com/farhanphame/Bike_Sharing_Demand)
+## [Project 2: Bike Sharing Demand: EDA in Python](https://github.com/farhanphame/Bike_Sharing_Demand)
 - Understanding dataset
 - Data cleaning and preparation
 - Doing Exploratory Data Analysis
 - Visualizing the analysis insight
 
-# [Project 3: E-Commerce Dataset: EDA](https://github.com/farhanphame/E-Commerce_Dataset)
+## [Project 3: E-Commerce Dataset: EDA in Python](https://github.com/farhanphame/E-Commerce_Dataset)
 - Understanding dataset
 - Data cleaning and preparation
 - Doing Exploratory Data Analysis
 - Visualizing the analysis insight
+
+## [Project 4: GreatFit Clothing: Data Visualization in Tableau](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/GreatFitClothing-DataVisualizationProject/DashboardofGreeatFitClothing)
+- Analyzing GreatFit Clothing data for understanding buyer
+- Making interactive dashboard of company data analytic
+
+## [Project 5: State of Park City Hotel: Booking Data Visualization in Tableau](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/HotelDataVisualizationProject/HotelBookingDashboard)
+- Analyzing Booking Data of State of Park City Hotel
+- Making interactive dashboard of company data analytic
+
+## [Project 6: Adventure Works Retail Store: Reviews Data Visualization in Tableau](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/AdventureWorksRetailStore-DataVisualizationProject/SalesbyCityandSalesStats)
+- Analyzing the buyer reviews of Adventure Works Retail Store
+- Making interactive dashboard of company data analytic
+
+## [Project 7: MegaMart: Sales Data Visualization](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/MegaMart-VisualizationProject/MegamartSalesDashboard)
+- Analyzing the sales data of MegaMart company
+- Making interactive dashboard of company data analytic
+
+## [Project 8: OLIST Logistic: Order Data Visualization](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/OLISTLogisticProject-DataVisualization/OLISTLogisticDashboard)
+- Analyzing the order data of OLIST Logistic compant
+- Making interactive dashboard of company data analytic
