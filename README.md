@@ -20,6 +20,7 @@ List of Data Analytic portfolio
 ## [Project 4: GreatFit Clothing: Data Visualization in Tableau](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/GreatFitClothing-DataVisualizationProject/DashboardofGreeatFitClothing)
 - Analyzing GreatFit Clothing data for understanding buyer
 - Making interactive dashboard of company data analytic
+
 ![](https://github.com/farhanphame/Farhan_Portfolio/blob/main/Images/GreatFit%20Clothing%20Dashboard.JPG)
 
 ## [Project 5: State of Park City Hotel: Booking Data Visualization in Tableau](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/HotelDataVisualizationProject/HotelBookingDashboard)
@@ -40,6 +41,7 @@ List of Data Analytic portfolio
 - Making interactive dashboard of company data analytic
 
 ![](https://github.com/farhanphame/Farhan_Portfolio/blob/main/Images/MegaMart%20Sales%20Dashboard.JPG)
+
 ## [Project 8: OLIST Logistic: Order Data Visualization](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/OLISTLogisticProject-DataVisualization/OLISTLogisticDashboard)
 - Analyzing the order data of OLIST Logistic compant
 - Making interactive dashboard of company data analytic
