@@ -1,8 +1,8 @@
 Muhammad Farhan Abdillah Portfolio
-List of Data Analytic portfolio
+List of Data Analytic portfolio 
 
 Project 1: Absenteeism Dataset: Preprocessing Data with Python
--Understanding dataset
+*Understanding dataset
 -Data cleaning and preparation
 
 Project 2: Bike Sharind Demand: EDA
