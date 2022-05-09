@@ -21,7 +21,7 @@ List of Data Analytic portfolio
 - Data cleaning and preparation
 - Doing Exploratory Data Analysis
 - Visualizing the analysis insight
-- 
+
 ![](https://github.com/farhanphame/Farhan_Portfolio/blob/main/Images/Online%20Retail.JPG)
 
 ## [Project 4: GreatFit Clothing: Data Visualization in Tableau](https://public.tableau.com/app/profile/muhammad.farhan.abdillah/viz/GreatFitClothing-DataVisualizationProject/DashboardofGreeatFitClothing)
