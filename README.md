@@ -29,4 +29,4 @@ List of Data Analytic portfolio
 ![](/Images/Adventure Works Dashboard.JPG)
 ![](/Images/Adventure Works Dashboard 2.JPG)
 ![](/Images/MegaMart Sales Dashboard.JPG)
-![](/Images/OLISH Logistic Dashboard.JPG)
+![](/Images/OLISH%20Logistic%20Dashboard.JPG)
