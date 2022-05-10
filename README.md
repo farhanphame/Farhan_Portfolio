@@ -9,6 +9,7 @@ List of Data Analytic portfolio
 - Visualizing the analysis insight
 
 ![](/Images/Bike Sharing.JPG)
+
 ![](/Images/Bike Sharing 2.JPG)
 
 ## [Project 2: E-Commerce Dataset: EDA in Python](https://github.com/farhanphame/E-Commerce_Dataset)
@@ -25,8 +26,13 @@ List of Data Analytic portfolio
 - Making interactive dashboard of company data analytic
 
 ![](/Images/GreatFit Clothing Dashboard.JPG)
+
 ![](/Images/Dashboard of States Park City Peaks Hotel.JPG)
+
 ![](/Images/Adventure Works Dashboard.JPG)
+
 ![](/Images/Adventure Works Dashboard 2.JPG)
+
 ![](/Images/MegaMart Sales Dashboard.JPG)
+
 ![](/Images/OLISH Logistic Dashboard.JPG)
